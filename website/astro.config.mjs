@@ -627,7 +627,11 @@ export default defineConfig({
                   label: '9. Slash commands in Copilot CLI',
                   link: '/real-world-development/cli/9-cli-power-tools/',
                   translations: {
+                    'es-ES': '9. Comandos de barra en GitHub Copilot CLI',
+                    'ja-JP': '9. GitHub Copilot CLI のスラッシュ コマンド',
                     'ko-KR': '9. GitHub Copilot CLI의 슬래시 명령',
+                    'pt-BR': '9. Comandos de barra no GitHub Copilot CLI',
+                    'zh-CN': '9. GitHub Copilot CLI 中的斜杠命令',
                   },
                 },
                 {
